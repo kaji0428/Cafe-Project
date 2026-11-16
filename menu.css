@@ -1,0 +1,14 @@
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20 30;
+}
+.menu-img{
+    display: flex;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+.menu-img img{
+    width: 25%;
+}
