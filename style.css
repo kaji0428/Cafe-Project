@@ -51,3 +51,13 @@ h1 {
   padding: 40px 20px;
   margin-top: 80px;
 }
+.footer-logo {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 0 10px;
+}
+
+.footer-address {
+  font-size: 14px;
+  margin: 0 0 20px;
+}
