@@ -114,16 +114,6 @@ h1,h2{
   background-color: #5e4538;
   transform: translateY(-2px);
 }
-
-/* フッター */
-.site-footer {
-  background-color: #f3efe9;
-  color: #5a4a42;
-  text-align: center;
-  padding: 40px 20px;
-  margin-top: 80px;
-}
-
 .footer-logo {
   font-size: 20px;
   font-weight: bold;

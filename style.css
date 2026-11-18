@@ -43,3 +43,11 @@ main {
 h1 {
   color: #8c7056;
 }
+
+.site-footer {
+  background-color: #f3efe9;
+  color: #5a4a42;
+  text-align: center;
+  padding: 40px 20px;
+  margin-top: 80px;
+}
